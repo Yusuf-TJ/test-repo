@@ -1,1 +1,1 @@
-print("hello, I'm a print forom a test file in a test repo")
+print("hello, I'm a print from a test file in a test repo")
